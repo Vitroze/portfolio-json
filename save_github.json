@@ -488,6 +488,20 @@
             "sLink": "Private",
             "sTitle": "Notification",
             "sDescription": "A system owned by VLife Group. A basic system Notification."
+        },
+        {
+            "sMedia": [
+                {
+                    "sType": "Image",
+                    "sLink": "resource/TestBla_1776155028.jpg"
+                }
+            ],
+            "sLang": [
+                "GLua"
+            ],
+            "sLink": "Private",
+            "sTitle": "TestBla",
+            "sDescription": "Ajoutez une description ici."
         }
     ],
     "AboutMe": {
