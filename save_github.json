@@ -531,6 +531,24 @@
             "sLink": "Private",
             "sTitle": "testa",
             "sDescription": "Ajoutez une description ici."
+        },
+        {
+            "sMedia": [
+                {
+                    "sType": "Image",
+                    "sLink": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/test_1776155755_0.jpg"
+                },
+                {
+                    "sType": "Video",
+                    "sLink": "https://www.youtube.com/watch?v=P-4TI87xYz0"
+                }
+            ],
+            "sLang": [
+                "C#"
+            ],
+            "sLink": "Private",
+            "sTitle": "test",
+            "sDescription": "Ajoutez une description ici."
         }
     ],
     "AboutMe": {
