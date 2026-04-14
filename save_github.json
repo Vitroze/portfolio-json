@@ -502,6 +502,21 @@
             "sLink": "Private",
             "sTitle": "TestBla",
             "sDescription": "Ajoutez une description ici."
+        },
+        {
+            "sMedia": [
+                {
+                    "sType": "Image",
+                    "sLink": "resource/Wouhou_1776155173.jpg"
+                }
+            ],
+            "sLang": [
+                "C#",
+                "Python"
+            ],
+            "sLink": "Private",
+            "sTitle": "Wouhou !",
+            "sDescription": "Ajoutez une description ici."
         }
     ],
     "AboutMe": {
