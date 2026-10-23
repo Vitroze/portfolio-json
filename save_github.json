@@ -734,6 +734,18 @@
           "url": "resource/creations/notification.png"
         }
       ]
+    },
+    {
+      "title": "Extension - Anti Pub",
+      "languages": [
+        "js"
+      ],
+      "description": {
+        "en": "This extension helps speed up ads on YouTube and MyCanal. ",
+        "fr": "Cette extension permet d'accélérer les pubs sur Youtube et MyCanal. "
+      },
+      "link": "https://github.com/Vitroze/no_pub",
+      "media": []
     }
   ]
 }
