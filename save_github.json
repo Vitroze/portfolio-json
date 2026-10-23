@@ -90,6 +90,10 @@
     "description": {
       "en": "French game developer passionate about Lua and Python, with years of experience crafting custom addons for Garry’s Mod and exploring new dimensions of creativity.",
       "fr": "Développeur de jeux français passionné par Lua et Python, avec des années d'expérience dans la création d'addons personnalisés pour Garry's Mod et l'exploration de nouvelles dimensions de créativité."
+    },
+    "bio": {
+      "en": "",
+      "fr": ""
     }
   },
   "skills": [
@@ -169,7 +173,9 @@
   "projects": [
     {
       "title": "Vehicle Customizer",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "Tool that can be used for ELS compatibility with SVMOD, VCMOD vehicles. It allows you to generate a code with a single accessory on a vehicle.",
         "fr": ""
@@ -188,7 +194,9 @@
     },
     {
       "title": "NightVision",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A system that allows you to turn the light off/on. The player won't see anything in the room, unless he has nightvision.",
         "fr": ""
@@ -203,7 +211,9 @@
     },
     {
       "title": "Inventory & Accessories",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A system that allows you to manage your inventory. You can add, remove, use items.",
         "fr": ""
@@ -218,7 +228,9 @@
     },
     {
       "title": "ALPR",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A system that allows you to scan a vehicle's license plate. It will display the owner's name, the vehicle's model and the vehicle's color.",
         "fr": ""
@@ -233,7 +245,9 @@
     },
     {
       "title": "Callout Manager - LSPDFR",
-      "languages": ["csharp"],
+      "languages": [
+        "csharp"
+      ],
       "description": {
         "en": "A callout manager for LSPDFR (GTA V).",
         "fr": ""
@@ -252,7 +266,9 @@
     },
     {
       "title": "French Callout - LSPDFR",
-      "languages": ["csharp"],
+      "languages": [
+        "csharp"
+      ],
       "description": {
         "en": "A callout for LSPDFR (GTA V). PROJECT OUTDATED.",
         "fr": ""
@@ -262,7 +278,9 @@
     },
     {
       "title": "KeyPad - Arduino",
-      "languages": ["cpp"],
+      "languages": [
+        "cpp"
+      ],
       "description": {
         "en": "A simple arduino project that lets you type code on the screen. If the code is good, it will emit a sound; if it's bad, it will emit a different sound.",
         "fr": ""
@@ -278,7 +296,9 @@
     },
     {
       "title": "View History",
-      "languages": ["batch"],
+      "languages": [
+        "batch"
+      ],
       "description": {
         "en": "A batch script that allows you to view the history web (OS : Windows). Created in 12/2021",
         "fr": ""
@@ -288,7 +308,9 @@
     },
     {
       "title": "App Desktop - PresentHTML",
-      "languages": ["csharp"],
+      "languages": [
+        "csharp"
+      ],
       "description": {
         "en": "An application that allowed me to present my HTML project. Created for a school project",
         "fr": ""
@@ -303,7 +325,9 @@
     },
     {
       "title": "App Desktop - PresentJS",
-      "languages": ["csharp"],
+      "languages": [
+        "csharp"
+      ],
       "description": {
         "en": "An application that allowed me to present my JS project. Created for a school project",
         "fr": ""
@@ -318,7 +342,9 @@
     },
     {
       "title": "App Desktop - Arduino",
-      "languages": ["csharp"],
+      "languages": [
+        "csharp"
+      ],
       "description": {
         "en": "An application that allowed me to present my Arduino project. Created for a school project",
         "fr": ""
@@ -333,7 +359,9 @@
     },
     {
       "title": "App Desktop - Motor",
-      "languages": ["csharp"],
+      "languages": [
+        "csharp"
+      ],
       "description": {
         "en": "An application that allowed me to present my Motor project. Created for a school project",
         "fr": ""
@@ -348,7 +376,9 @@
     },
     {
       "title": "Robot - Arduino",
-      "languages": ["cpp"],
+      "languages": [
+        "cpp"
+      ],
       "description": {
         "en": "A simple arduino project that allows you to create several behaviors with a robot, such as following a black line or creating geometric shapes prepared in the code.",
         "fr": ""
@@ -371,7 +401,9 @@
     },
     {
       "title": "App Desktop - Robot",
-      "languages": ["csharp"],
+      "languages": [
+        "csharp"
+      ],
       "description": {
         "en": "An application that allowed me to present my Robot project. Created for a school project",
         "fr": ""
@@ -386,7 +418,9 @@
     },
     {
       "title": "Trello and Google Sheets",
-      "languages": ["python"],
+      "languages": [
+        "python"
+      ],
       "description": {
         "en": "Creation of greater compatibility with the Trello and Google Sheet APIs. This compatibility is used to register all cards in a given category on Google Sheets and create a chart/stats. A system owned by VLife Group and Me.",
         "fr": ""
@@ -401,7 +435,9 @@
     },
     {
       "title": "Event Zombie",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "Event Zombie (Halloween 2023) for VLife. This add-on allows you to simulate a transformation (human to zombie), and boost speed, jump and life. Ranking for those who infect the most people and kill the most zombies.",
         "fr": ""
@@ -416,7 +452,9 @@
     },
     {
       "title": "VPet",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "Bring life to your server with VPets! This addon allows players to have their own virtual pets. Perfect for DarkRP, Sandbox, or any other gamemode, VPets add a layer of personality and fun to any Garry's Mod server!",
         "fr": ""
@@ -435,7 +473,9 @@
     },
     {
       "title": "DarkRP City Worker (MODIF)",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A new mission has been added to make the traffic lights on the New York City map more dynamic.",
         "fr": ""
@@ -450,7 +490,9 @@
     },
     {
       "title": "Armory Police NextBot",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A police armory that brings you your gun with a realistic system and a modern UI.",
         "fr": ""
@@ -466,7 +508,9 @@
     },
     {
       "title": "Tracker Phone",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system that can trace any telephone number on the map.",
         "fr": ""
@@ -482,7 +526,9 @@
     },
     {
       "title": "Clothing System",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system that allows you to change outfits while keeping the same head.",
         "fr": ""
@@ -497,7 +543,9 @@
     },
     {
       "title": "Website - School",
-      "languages": ["html_css"],
+      "languages": [
+        "html_css"
+      ],
       "description": {
         "en": "Project for school.",
         "fr": ""
@@ -512,7 +560,9 @@
     },
     {
       "title": "History Sanction",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A system that tracks player sanctions, even those that have been deleted. Compatible: SAM & Awarn3",
         "fr": ""
@@ -527,7 +577,9 @@
     },
     {
       "title": "Escape Menu",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A basic escape menu.",
         "fr": ""
@@ -542,7 +594,9 @@
     },
     {
       "title": "Animation Menu",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A basic animation menu.",
         "fr": ""
@@ -557,7 +611,9 @@
     },
     {
       "title": "EMS System",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A advanced EMS system.",
         "fr": ""
@@ -572,7 +628,9 @@
     },
     {
       "title": "F4 Menu",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A basic F4 menu (2 Design).",
         "fr": ""
@@ -587,7 +645,9 @@
     },
     {
       "title": "HUD",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A basic HUD (2 Design).",
         "fr": ""
@@ -606,7 +666,9 @@
     },
     {
       "title": "NPC Employer",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A basic NPC Employer.",
         "fr": ""
@@ -621,7 +683,9 @@
     },
     {
       "title": "Report Bug",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A basic report bug menu.",
         "fr": ""
@@ -636,7 +700,9 @@
     },
     {
       "title": "Daily Rewards",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A basic daily rewards (3 Design).",
         "fr": ""
@@ -651,7 +717,9 @@
     },
     {
       "title": "System TP",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A basic system TP.",
         "fr": ""
@@ -666,7 +734,9 @@
     },
     {
       "title": "Notification",
-      "languages": ["glua"],
+      "languages": [
+        "glua"
+      ],
       "description": {
         "en": "A system owned by VLife Group. A basic system Notification.",
         "fr": ""
