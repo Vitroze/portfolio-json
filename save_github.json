@@ -8,7 +8,8 @@
       "description": {
         "en": "Developed a wide range of custom addons on the game Garry’s Mod, gaining in-depth expertise in Lua and GLua scripting.",
         "fr": "Développement d'une large gamme d'addons personnalisés sur le jeu Garry's Mod, acquérant une expertise approfondie en scripting Lua et GLua."
-      }
+      },
+      "order": 1
     },
     "js": {
       "name": "JavaScript",
@@ -17,7 +18,8 @@
       "description": {
         "en": "Created interactive and dynamic functionalities, enhancing user experiences with efficient scripting.",
         "fr": "Création de fonctionnalités interactives et dynamiques, améliorant l'expérience utilisateur grâce à un scripting efficace."
-      }
+      },
+      "order": 2
     },
     "python": {
       "name": "Python",
@@ -26,7 +28,8 @@
       "description": {
         "en": "Built scripts, automation tools, and small applications, refining logic and problem-solving skills.",
         "fr": "Création de scripts, d'outils d'automatisation et de petites applications, affinant les compétences en logique et en résolution de problèmes."
-      }
+      },
+      "order": 3
     },
     "html_css": {
       "name": "HTML/CSS",
@@ -35,7 +38,8 @@
       "description": {
         "en": "Designed and structured modern web pages, focusing on clean markup, responsive layouts, and visual coherence.",
         "fr": "Conception et structuration de pages web modernes, en mettant l'accent sur un balisage propre, des mises en page réactives et une cohérence visuelle."
-      }
+      },
+      "order": 4
     },
     "csharp": {
       "name": "C#",
@@ -44,7 +48,8 @@
       "description": {
         "en": "Worked on object-oriented projects, learning to structure code efficiently and implement practical solutions.",
         "fr": "Travail sur des projets orientés objet, apprenant à structurer le code efficacement et à mettre en œuvre des solutions pratiques."
-      }
+      },
+      "order": 5
     },
     "sql": {
       "name": "SQL",
@@ -54,7 +59,8 @@
       "description": {
         "en": "Managed and queried databases, enhancing data handling and retrieval skills.",
         "fr": "Gestion et interrogation de bases de données, améliorant les compétences en gestion et récupération de données."
-      }
+      },
+      "order": 6
     },
     "git": {
       "name": "GIT",
@@ -64,7 +70,8 @@
       "description": {
         "en": "Utilized version control systems to manage codebases, collaborate effectively, and maintain project history.",
         "fr": "Utilisation de systèmes de contrôle de version pour gérer les bases de code, collaborer efficacement et maintenir l'historique des projets."
-      }
+      },
+      "order": 7
     },
     "cpp": {
       "name": "C++",
@@ -73,16 +80,8 @@
       "description": {
         "en": "Applied object-oriented and procedural programming concepts while exploring low-level systems.",
         "fr": "Application des concepts de programmation orientée objet et procédurale tout en explorant les systèmes bas niveau."
-      }
-    },
-    "batch": {
-      "name": "Batch",
-      "logo": "resource/logos/batch.svg",
-      "stars": 1,
-      "description": {
-        "en": "Wrote scripts to automate repetitive tasks, improving workflow efficiency and task management.",
-        "fr": "Rédaction de scripts pour automatiser les tâches répétitives, améliorant l'efficacité du flux de travail et la gestion des tâches."
-      }
+      },
+      "order": 8
     },
     "nouvelle-competence": {
       "name": "MongoDB",
@@ -91,7 +90,18 @@
       "description": {
         "en": "Database management",
         "fr": "Gestion de base de donnée"
-      }
+      },
+      "order": 9
+    },
+    "batch": {
+      "name": "Batch",
+      "logo": "resource/logos/batch.svg",
+      "stars": 1,
+      "description": {
+        "en": "Wrote scripts to automate repetitive tasks, improving workflow efficiency and task management.",
+        "fr": "Rédaction de scripts pour automatiser les tâches répétitives, améliorant l'efficacité du flux de travail et la gestion des tâches."
+      },
+      "order": 10
     }
   },
   "ui": {
