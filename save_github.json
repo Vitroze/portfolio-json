@@ -1,21 +1,62 @@
 {
   "version": 1,
   "languages": {
-    "glua": { "name": "LUA/GLua", "logo": "resource/logos/lua_glua.svg" },
-    "python": { "name": "Python", "logo": "resource/logos/python.svg" },
-    "js": { "name": "JavaScript", "logo": "resource/logos/js.svg" },
-    "html_css": { "name": "HTML/CSS", "logo": "resource/logos/html_css.svg" },
-    "csharp": { "name": "C#", "logo": "resource/logos/csharp.svg" },
-    "sql": { "name": "SQL", "logo": "resource/logos/sql.png", "hidden": true },
-    "git": { "name": "GIT", "logo": "resource/logos/git.svg", "hidden": true },
-    "cpp": { "name": "C++", "logo": "resource/logos/cpp.svg" },
-    "batch": { "name": "Batch", "logo": "resource/logos/batch.svg" }
+    "glua": {
+      "name": "LUA/GLua",
+      "logo": "resource/logos/lua_glua.svg"
+    },
+    "python": {
+      "name": "Python",
+      "logo": "resource/logos/python.svg"
+    },
+    "js": {
+      "name": "JavaScript",
+      "logo": "resource/logos/js.svg"
+    },
+    "html_css": {
+      "name": "HTML/CSS",
+      "logo": "resource/logos/html_css.svg"
+    },
+    "csharp": {
+      "name": "C#",
+      "logo": "resource/logos/csharp.svg"
+    },
+    "sql": {
+      "name": "SQL",
+      "logo": "resource/logos/sql.png",
+      "hidden": true
+    },
+    "git": {
+      "name": "GIT",
+      "logo": "resource/logos/git.svg",
+      "hidden": true
+    },
+    "cpp": {
+      "name": "C++",
+      "logo": "resource/logos/cpp.svg"
+    },
+    "batch": {
+      "name": "Batch",
+      "logo": "resource/logos/batch.svg"
+    }
   },
   "ui": {
-    "about": { "en": "About Me", "fr": "À propos de moi" },
-    "skills": { "en": "Skills", "fr": "Compétences" },
-    "projects": { "en": "Projects", "fr": "Projets" },
-    "all": { "en": "All", "fr": "Tous" },
+    "about": {
+      "en": "About Me",
+      "fr": "À propos de moi"
+    },
+    "skills": {
+      "en": "Skills",
+      "fr": "Compétences"
+    },
+    "projects": {
+      "en": "Projects",
+      "fr": "Projets"
+    },
+    "all": {
+      "en": "All",
+      "fr": "Tous"
+    },
     "skillsDescription": {
       "en": "Languages and tools I’ve honed to tackle any coding challenge.",
       "fr": "Langages et outils que j'ai perfectionnés pour relever tous les défis de codage."
@@ -32,11 +73,20 @@
       "en": "© {Year} - Vitroze - All rights reserved",
       "fr": "© {Year} - Vitroze - Tous droits réservés"
     },
-    "credits": { "en": "Designed by Pizu", "fr": "Conçu par Pizu" }
+    "credits": {
+      "en": "Designed by Pizu",
+      "fr": "Conçu par Pizu"
+    }
   },
   "about": {
-    "hello": { "en": "Hi", "fr": "Salut" },
-    "name": { "en": "I'm Vitroze", "fr": "Je suis Vitroze" },
+    "hello": {
+      "en": "Hi",
+      "fr": "Salut"
+    },
+    "name": {
+      "en": "I'm Vitroze",
+      "fr": "Je suis Vitroze"
+    },
     "description": {
       "en": "French game developer passionate about Lua and Python, with years of experience crafting custom addons for Garry’s Mod and exploring new dimensions of creativity.",
       "fr": "Développeur de jeux français passionné par Lua et Python, avec des années d'expérience dans la création d'addons personnalisés pour Garry's Mod et l'exploration de nouvelles dimensions de créativité."
@@ -126,7 +176,10 @@
       },
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2891598626",
       "media": [
-        { "type": "video", "url": "https://www.youtube.com/embed/MaurIeozN0g" },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/MaurIeozN0g"
+        },
         {
           "type": "image",
           "url": "https://steamuserimages-a.akamaihd.net/ugc/1945021378798297557/918B34A4F219B5678C61629F3F87740DE64632C2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
@@ -142,7 +195,10 @@
       },
       "link": null,
       "media": [
-        { "type": "video", "url": "https://www.youtube.com/embed/5ugCQMiLx_I" }
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/5ugCQMiLx_I"
+        }
       ]
     },
     {
@@ -154,7 +210,10 @@
       },
       "link": null,
       "media": [
-        { "type": "video", "url": "https://www.youtube.com/embed/URUY-sE8Zxk" }
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/URUY-sE8Zxk"
+        }
       ]
     },
     {
@@ -165,7 +224,12 @@
         "fr": ""
       },
       "link": null,
-      "media": [{ "type": "image", "url": "resource/creations/alpr.png" }]
+      "media": [
+        {
+          "type": "image",
+          "url": "resource/creations/alpr.png"
+        }
+      ]
     },
     {
       "title": "Callout Manager - LSPDFR",
@@ -231,7 +295,10 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/presentation_html.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/presentation_html.png"
+        }
       ]
     },
     {
@@ -243,7 +310,10 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/presentation_js.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/presentation_js.png"
+        }
       ]
     },
     {
@@ -270,7 +340,10 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/presentation_motor.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/presentation_motor.png"
+        }
       ]
     },
     {
@@ -286,8 +359,14 @@
           "type": "image",
           "url": "resource/creations/robot_optimized_square.gif"
         },
-        { "type": "image", "url": "resource/creations/robot_square.gif" },
-        { "type": "image", "url": "resource/creations/robot_line.gif" }
+        {
+          "type": "image",
+          "url": "resource/creations/robot_square.gif"
+        },
+        {
+          "type": "image",
+          "url": "resource/creations/robot_line.gif"
+        }
       ]
     },
     {
@@ -299,7 +378,10 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/presentation_motor.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/presentation_motor.png"
+        }
       ]
     },
     {
@@ -311,7 +393,10 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/trello_googlesheet.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/trello_googlesheet.png"
+        }
       ]
     },
     {
@@ -323,7 +408,10 @@
       },
       "link": null,
       "media": [
-        { "type": "video", "url": "https://www.youtube.com/embed/9zuzJPSCGBA" }
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/9zuzJPSCGBA"
+        }
       ]
     },
     {
@@ -335,7 +423,10 @@
       },
       "link": "https://www.gmodstore.com/market/view/vpet-the-pet-system-you-need",
       "media": [
-        { "type": "video", "url": "https://www.youtube.com/embed/i-CgVmHRlns" },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/i-CgVmHRlns"
+        },
         {
           "type": "image",
           "url": "https://media.gmodstore.com/460x/script_banners/93ccffab8a43cc4b33986af255757222.png"
@@ -351,7 +442,10 @@
       },
       "link": null,
       "media": [
-        { "type": "video", "url": "https://www.youtube.com/embed/nmjFlSdRDl8" }
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/nmjFlSdRDl8"
+        }
       ]
     },
     {
@@ -394,14 +488,27 @@
         "fr": ""
       },
       "link": null,
-      "media": [{ "type": "image", "url": "resource/creations/clothing.png" }]
+      "media": [
+        {
+          "type": "image",
+          "url": "resource/creations/clothing.png"
+        }
+      ]
     },
     {
       "title": "Website - School",
       "languages": ["html_css"],
-      "description": { "en": "Project for school.", "fr": "" },
+      "description": {
+        "en": "Project for school.",
+        "fr": ""
+      },
       "link": null,
-      "media": [{ "type": "image", "url": "resource/creations/site.png" }]
+      "media": [
+        {
+          "type": "image",
+          "url": "resource/creations/site.png"
+        }
+      ]
     },
     {
       "title": "History Sanction",
@@ -411,7 +518,12 @@
         "fr": ""
       },
       "link": null,
-      "media": [{ "type": "image", "url": "resource/creations/casier.png" }]
+      "media": [
+        {
+          "type": "image",
+          "url": "resource/creations/casier.png"
+        }
+      ]
     },
     {
       "title": "Escape Menu",
@@ -422,7 +534,10 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/escape_menu.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/escape_menu.png"
+        }
       ]
     },
     {
@@ -434,7 +549,10 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/animation_menu.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/animation_menu.png"
+        }
       ]
     },
     {
@@ -445,7 +563,12 @@
         "fr": ""
       },
       "link": null,
-      "media": [{ "type": "image", "url": "resource/creations/ems_menu.png" }]
+      "media": [
+        {
+          "type": "image",
+          "url": "resource/creations/ems_menu.png"
+        }
+      ]
     },
     {
       "title": "F4 Menu",
@@ -456,7 +579,10 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/animation_menu.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/animation_menu.png"
+        }
       ]
     },
     {
@@ -468,8 +594,14 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/hud_fun.png" },
-        { "type": "image", "url": "resource/creations/hud_serious.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/hud_fun.png"
+        },
+        {
+          "type": "image",
+          "url": "resource/creations/hud_serious.png"
+        }
       ]
     },
     {
@@ -481,7 +613,10 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/npc_employer.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/npc_employer.png"
+        }
       ]
     },
     {
@@ -492,7 +627,12 @@
         "fr": ""
       },
       "link": null,
-      "media": [{ "type": "image", "url": "resource/creations/reportbug.png" }]
+      "media": [
+        {
+          "type": "image",
+          "url": "resource/creations/reportbug.png"
+        }
+      ]
     },
     {
       "title": "Daily Rewards",
@@ -502,7 +642,12 @@
         "fr": ""
       },
       "link": null,
-      "media": [{ "type": "image", "url": "resource/creations/daily.png" }]
+      "media": [
+        {
+          "type": "image",
+          "url": "resource/creations/daily.png"
+        }
+      ]
     },
     {
       "title": "System TP",
@@ -512,7 +657,12 @@
         "fr": ""
       },
       "link": null,
-      "media": [{ "type": "image", "url": "resource/creations/tp_1.png" }]
+      "media": [
+        {
+          "type": "image",
+          "url": "resource/creations/tp_1.png"
+        }
+      ]
     },
     {
       "title": "Notification",
@@ -523,7 +673,10 @@
       },
       "link": null,
       "media": [
-        { "type": "image", "url": "resource/creations/notification.png" }
+        {
+          "type": "image",
+          "url": "resource/creations/notification.png"
+        }
       ]
     }
   ]
