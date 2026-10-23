@@ -86,7 +86,7 @@
     },
     "nouvelle-competence": {
       "name": "MongoDB",
-      "logo": "media/logos/mongodb-logo.svg.webp",
+      "logo": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/logos/mongodb-logo.svg.webp",
       "stars": 2,
       "description": {
         "en": "Database management",
