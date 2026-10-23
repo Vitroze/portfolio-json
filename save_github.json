@@ -28,6 +28,15 @@
         "fr": "Création de fonctionnalités interactives et dynamiques, améliorant l'expérience utilisateur grâce à un scripting efficace."
       }
     },
+    "nouvelle-competence": {
+      "name": "MongoDB",
+      "logo": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/logos/mongodb-logo.svg.webp",
+      "stars": 2,
+      "description": {
+        "en": "Database management",
+        "fr": "Gestion de base de donnée"
+      }
+    },
     "html_css": {
       "name": "HTML/CSS",
       "logo": "resource/logos/html_css.svg",
@@ -82,15 +91,6 @@
       "description": {
         "en": "Wrote scripts to automate repetitive tasks, improving workflow efficiency and task management.",
         "fr": "Rédaction de scripts pour automatiser les tâches répétitives, améliorant l'efficacité du flux de travail et la gestion des tâches."
-      }
-    },
-    "nouvelle-competence": {
-      "name": "MongoDB",
-      "logo": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/logos/mongodb-logo.svg.webp",
-      "stars": 2,
-      "description": {
-        "en": "Database management",
-        "fr": "Gestion de base de donnée"
       }
     }
   },
