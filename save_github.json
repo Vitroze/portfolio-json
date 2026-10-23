@@ -746,6 +746,30 @@
       },
       "link": "https://github.com/Vitroze/no_pub",
       "media": []
+    },
+    {
+      "title": "Extension - Fix Style Emineo/Cesar",
+      "languages": [
+        "js"
+      ],
+      "description": {
+        "en": "This extension allows you to fix styling issues and implement useful features in the César app. ",
+        "fr": "Cette extension permet de corriger les problèmes de styles et implémenter des fonctionnalités pratiques sur l'application césar "
+      },
+      "link": null,
+      "media": []
+    },
+    {
+      "title": "Bot Discord - Restauration ",
+      "languages": [
+        "python"
+      ],
+      "description": {
+        "en": "This bot was developed as part of a college project. It is a restaurant bot that is 100% customizable.",
+        "fr": "Ce bot a été réalisé dans le cadre d'un projet pour l'étude sup. C'est un bot de restauration qui est 100% configurable."
+      },
+      "link": null,
+      "media": []
     }
   ]
 }
