@@ -62,6 +62,16 @@
       },
       "order": 6
     },
+    "mongodb": {
+      "name": "MongoDB",
+      "logo": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/logos/mongodb-logo.svg.webp",
+      "stars": 2,
+      "description": {
+        "en": "Database management",
+        "fr": "Gestion de base de donnée"
+      },
+      "order": 7
+    },
     "git": {
       "name": "GIT",
       "logo": "resource/logos/git.svg",
@@ -71,7 +81,7 @@
         "en": "Utilized version control systems to manage codebases, collaborate effectively, and maintain project history.",
         "fr": "Utilisation de systèmes de contrôle de version pour gérer les bases de code, collaborer efficacement et maintenir l'historique des projets."
       },
-      "order": 7
+      "order": 8
     },
     "cpp": {
       "name": "C++",
@@ -81,7 +91,7 @@
         "en": "Applied object-oriented and procedural programming concepts while exploring low-level systems.",
         "fr": "Application des concepts de programmation orientée objet et procédurale tout en explorant les systèmes bas niveau."
       },
-      "order": 8
+      "order": 9
     },
     "batch": {
       "name": "Batch",
@@ -90,16 +100,6 @@
       "description": {
         "en": "Wrote scripts to automate repetitive tasks, improving workflow efficiency and task management.",
         "fr": "Rédaction de scripts pour automatiser les tâches répétitives, améliorant l'efficacité du flux de travail et la gestion des tâches."
-      },
-      "order": 9
-    },
-    "mongodb": {
-      "name": "MongoDB",
-      "logo": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/logos/mongodb-logo.svg.webp",
-      "stars": 2,
-      "description": {
-        "en": "Database management",
-        "fr": "Gestion de base de donnée"
       },
       "order": 10
     }
