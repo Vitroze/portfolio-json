@@ -10,15 +10,6 @@
         "fr": "Développement d'une large gamme d'addons personnalisés sur le jeu Garry's Mod, acquérant une expertise approfondie en scripting Lua et GLua."
       }
     },
-    "python": {
-      "name": "Python",
-      "logo": "resource/logos/python.svg",
-      "stars": 3,
-      "description": {
-        "en": "Built scripts, automation tools, and small applications, refining logic and problem-solving skills.",
-        "fr": "Création de scripts, d'outils d'automatisation et de petites applications, affinant les compétences en logique et en résolution de problèmes."
-      }
-    },
     "js": {
       "name": "JavaScript",
       "logo": "resource/logos/js.svg",
@@ -28,13 +19,13 @@
         "fr": "Création de fonctionnalités interactives et dynamiques, améliorant l'expérience utilisateur grâce à un scripting efficace."
       }
     },
-    "nouvelle-competence": {
-      "name": "MongoDB",
-      "logo": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/logos/mongodb-logo.svg.webp",
-      "stars": 2,
+    "python": {
+      "name": "Python",
+      "logo": "resource/logos/python.svg",
+      "stars": 3,
       "description": {
-        "en": "Database management",
-        "fr": "Gestion de base de donnée"
+        "en": "Built scripts, automation tools, and small applications, refining logic and problem-solving skills.",
+        "fr": "Création de scripts, d'outils d'automatisation et de petites applications, affinant les compétences en logique et en résolution de problèmes."
       }
     },
     "html_css": {
@@ -91,6 +82,15 @@
       "description": {
         "en": "Wrote scripts to automate repetitive tasks, improving workflow efficiency and task management.",
         "fr": "Rédaction de scripts pour automatiser les tâches répétitives, améliorant l'efficacité du flux de travail et la gestion des tâches."
+      }
+    },
+    "nouvelle-competence": {
+      "name": "MongoDB",
+      "logo": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/logos/mongodb-logo.svg.webp",
+      "stars": 2,
+      "description": {
+        "en": "Database management",
+        "fr": "Gestion de base de donnée"
       }
     }
   },
