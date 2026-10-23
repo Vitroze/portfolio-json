@@ -83,16 +83,6 @@
       },
       "order": 8
     },
-    "nouvelle-competence": {
-      "name": "MongoDB",
-      "logo": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/logos/mongodb-logo.svg.webp",
-      "stars": 2,
-      "description": {
-        "en": "Database management",
-        "fr": "Gestion de base de donnée"
-      },
-      "order": 9
-    },
     "batch": {
       "name": "Batch",
       "logo": "resource/logos/batch.svg",
@@ -100,6 +90,16 @@
       "description": {
         "en": "Wrote scripts to automate repetitive tasks, improving workflow efficiency and task management.",
         "fr": "Rédaction de scripts pour automatiser les tâches répétitives, améliorant l'efficacité du flux de travail et la gestion des tâches."
+      },
+      "order": 9
+    },
+    "nouvelle-competence": {
+      "name": "MongoDB",
+      "logo": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/logos/mongodb-logo.svg.webp",
+      "stars": 2,
+      "description": {
+        "en": "Database management",
+        "fr": "Gestion de base de donnée"
       },
       "order": 10
     }
