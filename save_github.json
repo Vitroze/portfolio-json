@@ -770,6 +770,18 @@
       },
       "link": null,
       "media": []
+    },
+    {
+      "title": "Bot Discord - Basic",
+      "languages": [
+        "python"
+      ],
+      "description": {
+        "en": "Discord bot created for initialization during a Python Discord course",
+        "fr": "Bot discord crée pour une initialisation au cours de python discord"
+      },
+      "link": "https://github.com/Vitroze/first_bot_discord",
+      "media": []
     }
   ]
 }
