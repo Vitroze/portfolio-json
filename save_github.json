@@ -11,16 +11,6 @@
       },
       "order": 1
     },
-    "js": {
-      "name": "JavaScript",
-      "logo": "resource/logos/js.svg",
-      "stars": 2,
-      "description": {
-        "en": "Created interactive and dynamic functionalities, enhancing user experiences with efficient scripting.",
-        "fr": "Création de fonctionnalités interactives et dynamiques, améliorant l'expérience utilisateur grâce à un scripting efficace."
-      },
-      "order": 2
-    },
     "python": {
       "name": "Python",
       "logo": "resource/logos/python.svg",
@@ -28,6 +18,16 @@
       "description": {
         "en": "Built scripts, automation tools, and small applications, refining logic and problem-solving skills.",
         "fr": "Création de scripts, d'outils d'automatisation et de petites applications, affinant les compétences en logique et en résolution de problèmes."
+      },
+      "order": 2
+    },
+    "js": {
+      "name": "JavaScript",
+      "logo": "resource/logos/js.svg",
+      "stars": 2,
+      "description": {
+        "en": "Created interactive and dynamic functionalities, enhancing user experiences with efficient scripting.",
+        "fr": "Création de fonctionnalités interactives et dynamiques, améliorant l'expérience utilisateur grâce à un scripting efficace."
       },
       "order": 3
     },
