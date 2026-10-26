@@ -782,6 +782,23 @@
       },
       "link": "https://github.com/Vitroze/first_bot_discord",
       "media": []
+    },
+    {
+      "title": "Extension - GtaCityRP Restart",
+      "languages": [
+        "js"
+      ],
+      "description": {
+        "en": "Extension GtaCityRP Restart is a simple browser extension that displays the remaining time until the next server restart on the GtaCityRP forum. It is designed to work with Chrome, Edge, and Firefox browsers.",
+        "fr": "L'extension « GtaCityRP Restart » est une extension de navigateur simple qui affiche le temps restant avant le prochain redémarrage du serveur sur le forum GtaCityRP. Elle est conçue pour fonctionner avec les navigateurs Chrome, Edge et Firefox."
+      },
+      "link": "https://github.com/Vitroze/extension_gtacity_restart",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/Vitroze/portfolio-json/main/resource/extension-gtacity-restart-2.png"
+        }
+      ]
     }
   ]
 }
