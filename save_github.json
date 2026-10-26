@@ -70,6 +70,7 @@
         "en": "Database management",
         "fr": "Gestion de base de donnée"
       },
+      "hidden": true,
       "order": 7
     },
     "git": {
